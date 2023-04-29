@@ -1,0 +1,16 @@
+
+
+header img {
+    width: 100px;
+}
+
+nav {
+    /* display - type of element */
+    /* display : inline-block - inline that has all property as a block */
+    display: inline-block;
+    text-align: center;
+}
+
+main img {
+    width: 300px;
+}
