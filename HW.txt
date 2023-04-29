@@ -1,0 +1,15 @@
+Homework
+1) Create index.html , style.css files 
+2) Into style.css -> use all to default (paddings , margins)
+3) Create semantic tags : 
+Header 
+Main 
+Aside
+Footer
+
+4) Into the header add nav 
+5) Add some links into nav 
+6) Create product into main 
+7) Product includes : img , title (h1-h6) , description (p) + button
+8) Footer contains h1 element with next text : “All rights reserved 2023(c)” . 
+9) Use git (with git-flow)
