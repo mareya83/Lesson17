@@ -1,0 +1,23 @@
+
+* {
+    padding : 0px;
+    margin: 0px;   
+}
+
+
+header {
+    background: rgb(78, 218, 73);
+    padding: 20px;
+    text-align: center;
+} 
+
+
+header a {
+    color: rgb(71, 10, 46);
+    text-decoration: none;
+}
+
+
+main img {
+    width: 550px;
+}
